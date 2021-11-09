@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Cat Trivia",
+      "live": "https://lucy-project-1.onrender.com",
+      "git": "https://github.com/lucyliu94/SEIR_Penguin_Project_1",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Project 2 - Adoption Page",
+      "live": "https://lucy-seir-project2.herokuapp.com/",
+      "git": "https://github.com/lucyliu94/SEIR_Penguin_Project_2",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
